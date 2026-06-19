@@ -1,0 +1,16 @@
+.streamlit/config.toml
+.env
+.env.local
+*.pyc
+__pycache__/
+.DS_Store
+venv/
+env/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.csv
+*.xlsx
+*.db
+.ipynb_checkpoints/
